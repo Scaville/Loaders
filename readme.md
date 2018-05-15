@@ -1,7 +1,7 @@
 # Scaville
 ## SV Location
 
-This project is a simple set of scripts of database to include all countries from world and all states and cities from Brasil country.
+This project is a simple set of scripts of database to include all countries from world and all states and cities from Brazil country.
 
 ##### Content of package
 
@@ -19,4 +19,5 @@ This project is a simple set of scripts of database to include all countries fro
 #
 ---
 Developed by: Fabricio Paulo | Scaville
+#
 Licence: GPL
