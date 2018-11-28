@@ -1,23 +1,22 @@
-# Scaville
-## SV Location
+### Scaville
+# Loaders
 
-This project is a simple set of scripts of database to include all countries from world and all states and cities from Brazil country.
+This project is a simple set of scripts of database to include the first data load.
 
 ##### Content of package
 
-#
-    - Tables Creation SQL
-        - COUNTRY
-        - STATE
-        - CITY
-    - Inserts Scripts
-        - COUNTRIES
-        - STATES
-        - CITIES
+## Location
+    - TABLES
+        - SV_SV_COUNTRY
+        - SV_STATE
+        - SV_CITY
+    - SCRIPTS
+        - SV_COUNTRIES
+        - SV_STATES
+        - SV_CITIES
         
 #### It's free, enjoy and adapt it to your need
-#
 ---
-Developed by: Fabricio Paulo | Scaville
-#
+Development by: Fabricio Paulo<br/>
+(C) Copyright - 2019 - Scaville<br/>
 Licence: GPL
