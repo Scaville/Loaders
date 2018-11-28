@@ -1,5 +1,9 @@
-### Scaville
-# Loaders
+## Loaders
+
+> Project Loaders<br/>
+> Developer: Fabricio Paulo<br/>
+> Maintainer: Scaville
+> Version: 1.1 (stable)
 
 This project is a simple set of scripts of database to include the first data load.
 
@@ -20,5 +24,6 @@ This project is a simple set of scripts of database to include the first data lo
         
 #### It's free, enjoy and adapt it to your need
 ---
-Development by: Fabricio Paulo<br/>
-(C) Copyright - 2019 - Scaville<br/>
+**Loaders**<br/>
+_Development by: Fabricio Paulo_<br/>
+**© 2019 - <a href='http://www.scaville.com'>Scaville</a>**
